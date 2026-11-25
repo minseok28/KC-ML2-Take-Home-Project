@@ -2,8 +2,10 @@
 Topic: CV Classification and Quantization
 
 Files
-[Experiment notebook](Take_Home_Project_INT8%281%29.ipynb) — data preparation, training curves, checkpoint selection, INT8 conversion, and evaluation.\n
-[Technical report](KC-ML2%20Technical%20Report.pdf) — experimental setup, results, and discussion.\n
+[Experiment notebook](Take_Home_Project_INT8%281%29.ipynb) — data preparation, training curves, checkpoint selection, INT8 conversion, and evaluation.
+
+[Technical report](KC-ML2%20Technical%20Report.pdf) — experimental setup, results, and discussion.
+
 [Technical_report(part4)] - 2 pages report addressing analysis of quantization
 
 Run the notebook
