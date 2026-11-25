@@ -1,8 +1,7 @@
 # KC-ML2-Take-Home-Project
+## Topic: CV Classification and Quantization
 
 This KC-ML2 take-home project trains a compact ResNet-34 on CIFAR-10 and evaluates the effect of INT8 post-training quantization (PTQ) on model size, CPU inference time, and test accuracy.
-
-## Topic: CV Classification and Quantization
 
 ## Files
 - [Experiment notebook](Take_Home_Project_INT8.ipynb) — data preparation, training curves, checkpoint selection, INT8 conversion, and evaluation.
